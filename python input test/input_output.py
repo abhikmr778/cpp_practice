@@ -1,0 +1,6 @@
+# STDIN: input()
+# STDOUT: print()
+ar_count = int(input())
+ar = list(map(int, input().rstrip().split()))
+print(ar_count)
+print(ar)

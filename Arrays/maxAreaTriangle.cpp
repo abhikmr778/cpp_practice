@@ -1,0 +1,12 @@
+// 25 ggbggbgrrbr grrbgrrrbbb rgbgrrgbgbb ggrbgrrgggr gggrgrbbgbr bbrgrbgrbbg bgrbrgrbrgg bbbgrgrgrgg rrrbbggbggr rgrbbrrrgrb bbrgbgbbrrg grrrbrgbgrb rrrrgrbgbbr gbrbbggbbgb rrrgrbrrbgg grbgrrggbgg rrgbrrgrbgr rgggbbbrbbb rbrrgggrgrr bbggbbgbbbb brbrrrrgbbg brrrrgrgbgg gbrrggrgggg brrbgrggbbg brrbgrbrgrb
+
+// 29 rrrbr ggrgb bbbrg rrgrr gbggb 
+// rbbgr rbgrg bbbgr ggbbb bggbr 
+// ggrbb grrrg rbrrg brrgr rrgbg 
+// bbrgr gbbbr rrbgb brbbr bgrrr 
+// bbggr rggbg bbggg gggbb bgbbg 
+// rrbgr rggrb grggr rggrr
+
+// 18 bggggbgggrgbbrgbr grggbbrgrggrrrgbg bbbggbbgbrbgbbgbb rbrrbrbbgbgrrrgrb brrrrgrbbrggbrbbr rrggbrgbgrgbgbgbr ggbbrbrrgbrrggbrb grbgbbbbgrgrggrgg rgggbbrgbrbrggrbb grbbrgrrrbgrrrrbr rgbbbgbgbggrggbrr grgbbbgrbrrggbbrr rbbgrgbgggggbgggb bbrgggbrgrbrbrbgb brbgrrbbgrgggrbbg gbgggrgrbbrrrrbbb rgbbbbgrggbbrgrgg ggbgbbrgrrbgbbbgb
+
+29 rbrrggggbbbrgrrbr bbrrgbrbrgbrrgbbg ggbrggrrgrrgbrrrg rrrbgggbbggrrbgbr bbggggrbrgggrrbgg rrrbbgbgrrbrrgrbg gbbbrgbggrgbbrbgg bgbgrgbrbrgbrgggr bgbggrrrbrrgbrgbb brbggbbrrbgbrrgrb ggbbgbbbgbrbbbgbg gbrrbgrbrbgrrrgbg bgbrbbgrgbgrrrbgr brrgggbbgrrbgrbbg bbbrrbbbrbggrrbbr rrrrbgrbgrrbbrbbr gbggggrrrbrbggbgg grbgbbgrggrrrgbbg grgggbggbrgrgrgrb ggrrgrbggbrbggrbr ggbbbrgrbgbrggrgb grgbggrbrrrgrbbbg bbrrbrrbgbrrggbgg rrgrrgbggbbbgbggr rgrbrbrbgrbrrrrgg rgrbrbgrgrggbbrgr brgrggrgrgbgrrggg grbggrrbbrrgrgbgg rgrbbrbrgggrgrrbg
